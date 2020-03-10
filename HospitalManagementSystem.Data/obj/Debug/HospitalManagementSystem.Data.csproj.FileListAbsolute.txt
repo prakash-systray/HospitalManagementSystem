@@ -1,0 +1,11 @@
+D:\Personal Projects\HospitalManagementSystem\HospitalManagementSystem.Data\bin\Debug\HospitalManagementSystem.Data.dll
+D:\Personal Projects\HospitalManagementSystem\HospitalManagementSystem.Data\bin\Debug\HospitalManagementSystem.Data.pdb
+D:\Personal Projects\HospitalManagementSystem\HospitalManagementSystem.Data\bin\Debug\Dapper.dll
+D:\Personal Projects\HospitalManagementSystem\HospitalManagementSystem.Data\bin\Debug\HospitalManagementSystem.Core.dll
+D:\Personal Projects\HospitalManagementSystem\HospitalManagementSystem.Data\bin\Debug\HospitalManagementSystem.Core.pdb
+D:\Personal Projects\HospitalManagementSystem\HospitalManagementSystem.Data\bin\Debug\Dapper.xml
+D:\Personal Projects\HospitalManagementSystem\HospitalManagementSystem.Data\obj\Debug\HospitalManagementSystem.Data.csprojAssemblyReference.cache
+D:\Personal Projects\HospitalManagementSystem\HospitalManagementSystem.Data\obj\Debug\HospitalManagementSystem.Data.csproj.CoreCompileInputs.cache
+D:\Personal Projects\HospitalManagementSystem\HospitalManagementSystem.Data\obj\Debug\HospitalManagementSystem.Data.csproj.CopyComplete
+D:\Personal Projects\HospitalManagementSystem\HospitalManagementSystem.Data\obj\Debug\HospitalManagementSystem.Data.dll
+D:\Personal Projects\HospitalManagementSystem\HospitalManagementSystem.Data\obj\Debug\HospitalManagementSystem.Data.pdb

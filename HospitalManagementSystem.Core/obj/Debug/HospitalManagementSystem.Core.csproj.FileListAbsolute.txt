@@ -1,0 +1,6 @@
+D:\Personal Projects\HospitalManagementSystem\HospitalManagementSystem.Core\bin\Debug\HospitalManagementSystem.Core.dll
+D:\Personal Projects\HospitalManagementSystem\HospitalManagementSystem.Core\bin\Debug\HospitalManagementSystem.Core.pdb
+D:\Personal Projects\HospitalManagementSystem\HospitalManagementSystem.Core\obj\Debug\HospitalManagementSystem.Core.csprojAssemblyReference.cache
+D:\Personal Projects\HospitalManagementSystem\HospitalManagementSystem.Core\obj\Debug\HospitalManagementSystem.Core.csproj.CoreCompileInputs.cache
+D:\Personal Projects\HospitalManagementSystem\HospitalManagementSystem.Core\obj\Debug\HospitalManagementSystem.Core.dll
+D:\Personal Projects\HospitalManagementSystem\HospitalManagementSystem.Core\obj\Debug\HospitalManagementSystem.Core.pdb
